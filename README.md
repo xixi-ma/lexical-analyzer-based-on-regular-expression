@@ -1,1 +1,1 @@
-# lexical-analyzer-based-on-regular-expression
+# lexical-analyzer-based-on-regular-expressions
